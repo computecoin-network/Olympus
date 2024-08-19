@@ -3,10 +3,7 @@
   "version": "1.6.0",
   "description": "Ethereum MultiSignature Wallet. Main module, for installing all dependencies",
   "scripts": {
-    "test-dapp": "cd dapp && npm test",
-    "test": "sh truffle_test_runner.sh",
-    "install": "cd dapp && npm install",
-    "start": "cd dapp && npm start"
+    "test_ccnbeta": "./test_ccnbeta.sh"
   },
   "repository": {
     "type": "git",
